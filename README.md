@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/TgxBots"><img src="https://telegra.ph/file/6e50a22dcb7bf6a062b1c.jpg" width="2500"></a></p> 
+<p align="center"><a href="https://t.me/classy_empire"><img src="https://te.legra.ph/file/6397c1c736cd21831c1a6.jpg" width="2500"></a></p> 
 <h1 align="center"><b>Group-Manager Bot</b></h1>
 <h4 align="center">A Group-Manager Bot made with telethon!</h4>
 
