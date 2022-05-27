@@ -28,5 +28,5 @@ WELCOME_TEXT - The text msg which you want in your welcome msg.
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## Credits:
-• [Devsexpo](https://GitHub.com/selfishx)
+• [Classy](https://GitHub.com/selfishx)
 
